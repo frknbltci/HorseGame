@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/firsScene.unity
+    guid: 1bc4d9daefb5d784e8a35bfae86b2745
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 62d4f5ba358120141a2827f3ce02d61f
+  - enabled: 1
+    path: Assets/Scenes/raceScene.unity
+    guid: 17b5a7da56eaaf64ab024106e0719e7e
+  - enabled: 1
+    path: "Assets/Scenes/Kazand\u0131n.unity"
+    guid: c6ff9956ce4e2f44bba3f4922a777434
+  - enabled: 1
+    path: Assets/Scenes/FotoFinishV.unity
+    guid: dddb1e10605063647a51a710f6dec0cd
+  - enabled: 1
+    path: Assets/Scenes/LevelTwoRace.unity
+    guid: 5d28228748071484e92a6f184e71f7b8
+  - enabled: 1
+    path: Assets/Scenes/Kaybettin.unity
+    guid: 2e21da6bdacc8ce4199521dd491db743
+  m_configObjects: {}
